@@ -1,0 +1,31 @@
+Gender,Age,Location,Bef.Monthly Expenses ,Occupation,Transportation,Transpo Expenses,Travel Time (in minutes),Internet Access,Gadget to use in work,Preferred Setup,Going out frequency after pandemic,Dur.Monthly Expenses 
+Female,21,Region IV-A,9000,Student,"Trycicle, Jeep",80,45,Yes,Yes,Onsite/ Face to Face Class,0-1,9500
+Male,27,Region III,38000,Private,"Personal Car, P2P",200,60,Yes,Yes,Work from Home/ Online Class,2-3,24000
+Female,22,Region III,19000,Private,"Trycicle, Jeep, Bus",130,75,Yes,Yes,Work from Home/ Online Class,0-1,18000
+Male,20,Region IV-A,14000,Student,Trycicle,40,30,Yes,Yes,Work from Home/ Online Class,0-1,8000
+Male,38,Region II,25000,Government,"Trycicle, Jeep",230,45,Yes,Yes,Work from Home/ Online Class,2-3,17000
+Male,36,Region II,34000,Private,"Trycicle, Personal Car",300,85,Yes,Yes,Work from Home/ Online Class,2-3,29000
+Female,24,Region III,9500,Student,"Trycicle, Jeep",80,45,No,Yes,Onsite/ Face to Face Class,2-3,8500
+Male,17,Region VI,9800,Student,Bike,0,30,No,No,Onsite/ Face to Face Class,3-4,9500
+Female,27,Region VIII,16000,Private,"Trycicle, Jeep",100,40,No,Yes,Work from Home/ Online Class,3-4,9200
+Male,21,Region IV-B,9800,Student,"Bike, Trycicle, Jeep",100,80,No,No,Onsite/ Face to Face Class,2-3,9000
+Male,32,Region VI,26000,Government,"Bike, Trycicle, Jeep",75,60,No,No,Onsite/ Face to Face Class,3-4,19000
+Male,21,Region IV-A,9500,Student,Trycicle,40,30,No,Yes,Onsite/ Face to Face Class,3-4,9600
+Female,20,Region IV-A,9800,Student,"Trycicle, Jeep",120,70,Yes,Yes,Work from Home/ Online Class,0-1,9200
+Male,36,Region IV-A,19000,Private,"Trycicle, Jeep",80,100,Yes,Yes,Work from Home/ Online Class,2-3,18000
+Male,23,Region IV-A,19800,Private,"Trycicle, Company Shuttle",20,90,No,No,Onsite/ Face to Face Class,2-3,17500
+Female,33,Region III,44000,Private,"Personal Car, P2P",300,125,Yes,Yes,Work from Home/ Online Class,2-3,28000
+Male,16,Region III,9800,Student,"Trycicle, Jeep, None(Walk)",40,30,Yes,Yes,Onsite/ Face to Face Class,2-3,9200
+Male,28,Region III,18000,Government,"Trycicle, Jeep, None(Walk)",85,45,No,No,Onsite/ Face to Face Class,2-3,19200
+Female,29,Region II,18500,Government,"Bus, None(Walk)",200,75,Yes,Yes,Work from Home/ Online Class,3-4,18800
+Female,29,Region VII,47000,Private,Personal Car,300,140,Yes,Yes,Work from Home/ Online Class,5-6,28500
+Male,17,Region IV-A,9800,Student,"Bike, Jeep, None(Walk)",35,40,Yes,Yes,Onsite/ Face to Face Class,2-3,9300
+Female,24,Region IV-B,29000,Government,"Trycicle, Jeep",80,80,Yes,Yes,Work from Home/ Online Class,5-6,27000
+Female,22,Region III,28000,Private,"Jeep, Bus, None(Walk)",135,90,Yes,Yes,Work from Home/ Online Class,7-8,17900
+Male,16,Region X,9600,Student,"Bike, Jeep, None(Walk)",40,45,Yes,No,Work from Home/ Online Class,2-3,8900
+Female,43,Region III,54000,Government,Personal Car,300,65,Yes,Yes,Work from Home/ Online Class,5-6,38000
+Male,34,Region I,19200,Private,"Jeep, Bus, Personal Car",150,70,Yes,Yes,Work from Home/ Online Class,7-8,27800
+Female,28,Region III,37000,Private,"Trycicle, Jeep, None(Walk)",150,80,Yes,Yes,Work from Home/ Online Class,9-10,29200
+Male,36,Region VI,36500,Private,"Trycicle, Jeep, Bus, None(Walk)",320,140,Yes,Yes,Work from Home/ Online Class,9-10,24000
+Female,17,Region III,9250,Student,"Trycicle, Jeep",110,70,Yes,Yes,Onsite/ Face to Face Class,0-1,8600
+Female,23,Region IV-A,1750,Private,"Jeep, None(Walk)",60,40,Yes,Yes,Work from Home/ Online Class,2-3,16000
